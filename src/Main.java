@@ -11,6 +11,7 @@ public class Main {
         System.out.println("git");
         System.out.println("bendi");
         System.out.println("hhh");
+        System.out.println(22);
         //bendi
     }
 }
