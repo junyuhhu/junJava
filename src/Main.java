@@ -5,5 +5,6 @@ public class Main {
         System.out.println();
         System.out.println("111");
         System.out.println("dev");
+        System.out.println("dev");
     }
 }
