@@ -6,6 +6,5 @@ public class Main {
         System.out.println("111");
         System.out.println("dev");
         System.out.println("master");
-        System.out.println("remote");
     }
 }
