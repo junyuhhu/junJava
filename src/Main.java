@@ -7,5 +7,6 @@ public class Main {
         System.out.println("dev");
         System.out.println("master");
         System.out.println("git");
+        System.out.println("bendi");
     }
 }
